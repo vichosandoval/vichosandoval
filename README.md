@@ -15,7 +15,7 @@
 ### Work experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.sertras.com/gestao-de-fornecedores/wp-content/uploads/2020/11/Sertras-1080X270-Transparente.png"/>](https://www.sertras.com.br/)
+[<img align="left" height="94px" width="250px" alt="Warpnet" src="https://www.sertras.com/gestao-de-fornecedores/wp-content/uploads/2020/11/Sertras-1080X270-Transparente.png"/>](https://www.sertras.com.br/)
 
 **Software Engineer** \
 [**SERTRAS**](https://www.sertras.com.br/) • Full-time \
