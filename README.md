@@ -10,15 +10,15 @@
 <p align="left">
   💼 Ferramentas: <strong>Wordpress, NodeJS, Git, ReactJS and  Angular.</strong>
 </p>
+<br/>
 
+### Work experience
+In the overview below you will find my most recent work experience:
 
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.sertras.com/gestao-de-fornecedores/wp-content/uploads/2020/11/Sertras-1080X270-Transparente.png"/>](https://www.sertras.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fstu5-1.fna.fbcdn.net/v/t39.30808-6/259132839_2979877412326575_7149147517302451881_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=3YG6_LxHGjsAX_TpGSM&_nc_ht=scontent.fstu5-1.fna&oh=00_AT9AOcjrBE3l_s4juluWN5Qyq4y_0ocvJFaHFFy2f0-CTg&oe=632E67D4/>](https://www.sertras.com.br/)
 
 **Software Engineer** \
-[**SpaceX**](https://www.sertras.com.br/) • Full-time \
+[**SERTRAS**](https://www.sertras.com.br/) • Full-time \
 Programming Languages & technologies: `Wordpress`, `HTML`, `CSS`, `JavaScript`, `PHP`, `Jquery`,\
 
 <br/>
